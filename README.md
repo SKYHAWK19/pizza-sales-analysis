@@ -27,7 +27,7 @@ It demonstrates real-world data analytics skills such as querying, aggregations,
 ---
 
 ## 🖼️ Dashboard Preview
-![Pizza Dashboard](assets/Untitled Report - Brave 17-09-2025 04_38_17.png)
+check assets
 
 ---
 
